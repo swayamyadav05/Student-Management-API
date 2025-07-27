@@ -18,17 +18,6 @@ A RESTful API built with FastAPI for managing student records. This project demo
 - **Python 3.12**: Programming language
 - **UUID**: Unique identifier generation
 
-## Project Structure
-
-```
-FastAPI/
-├── myapi.py           # Main application file
-├── __pycache__/       # Python cache files
-├── .vscode/           # VS Code settings
-│   └── settings.json
-└── README.md          # This file
-```
-
 ## Installation & Setup
 
 1. **Clone the repository**
