@@ -23,7 +23,7 @@ A RESTful API built with FastAPI for managing student records. This project demo
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/swayamyadav05/Student-Management-API.git
    cd FastAPI
    ```
 
