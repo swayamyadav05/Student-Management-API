@@ -165,4 +165,5 @@ def delete_student(student_id: str):
             status_code=status.HTTP_404_NOT_FOUND,
             detail=f"Student with ID {student_id} not found",
         )
+    print("Student deleted:")
     del students_db[student_id]
